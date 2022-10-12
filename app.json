@@ -1,8 +1,8 @@
 {
-    "name": "Womginx",
-    "description": "Fastest proxy using only nginx as the backend server",
-    "repository": "https://github.com/binary-person/womginx",
-    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png",
+    "name": "FA Shared Proxy",
+    "description": "shared proxy give by https://www.frogiesarcade.tk",
+    "repository": "https://www.frogiesarcade.tk",
+    "logo": "https://lh4.googleusercontent.com/hh7Bze5-sS5krSN9Lvy1MJ_WXlnsD2Earx2oeQJI1mEHCrW_bU788o9GH78z99Xa96iGoK2Ec7tJx4i6Py07vgU=w16383"
     "keywords": [
         "nginx",
         "docker"
